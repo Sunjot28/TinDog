@@ -204,11 +204,8 @@ p{
         text-align: left;
     }
 
-/*     .title-image{
-        position: static;
+    .title-image{
         transform: rotate(0);
-        width: 40%;
-        padding-left: 6rem;
-    } */
+    }
 }
 
